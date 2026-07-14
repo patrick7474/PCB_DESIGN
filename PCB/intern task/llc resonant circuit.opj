@@ -1,0 +1,156 @@
+(ExpressProject "llc resonant circuit"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 S030 (4414069)  [3/25/2026]-[07/08/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\llc resonant circuit.DSN"
+      (Type "Schematic Design")
+      (DisplayName ".\llc resonant circuit.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Display_Online_DRC_Results "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (AD536AJQ
+      (FullPartName "AD536AJQ.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (POT
+      (FullPartName "POT.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (TL082CN
+      (FullPartName "TL082CN.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 1"
+      (FullPartName "HEADER 1.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (L78L05
+      (FullPartName "L78L05.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (db15_male
+      (FullPartName "db15_male.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (LM318N
+      (FullPartName "LM318N.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (CNY74-2
+      (FullPartName "CNY74-2.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (DG201BDJ
+      (FullPartName "DG201BDJ.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (M74HC123B1
+      (FullPartName "M74HC123B1.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (S170PH5D
+      (FullPartName "S170PH5D.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (SN74HC14N
+      (FullPartName "SN74HC14N.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (JUMPER1
+      (FullPartName "JUMPER1.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 8X2"
+      (FullPartName "HEADER 8X2.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 16"
+      (FullPartName "HEADER 16.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LM311
+      (FullPartName "LM311.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (AD734AQ
+      (FullPartName "AD734AQ.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (TL084CN
+      (FullPartName "TL084CN.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (SG3525A
+      (FullPartName "SG3525A.Normal")
+      (LibraryName "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\llc resonant circuit.DSN")
+      (Path "Design Resources" ".\llc resonant circuit.DSN" "SCHEMATIC1")
+      (Path "Design Resources" ".\llc resonant circuit.DSN" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\library1.olb")
+      (Select "Design Resources" ".\llc resonant circuit.DSN" "SCHEMATIC1"
+         "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 282 0 520"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 952 24 561")
+        (Scroll "-55 0")
+        (Zoom "25")
+        (Occurrence "/"))
+      (Path "C:\USERS\PC\ONEDRIVE\DESKTOP\INTERN TASK\LLC RESONANT CIRCUIT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory "C:\Users\PC\OneDrive\Desktop\intern task"))
